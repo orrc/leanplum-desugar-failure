@@ -31,7 +31,7 @@ dependencies {
     version = '2.2.2'
 
     // Crashes during ':app:transformClassesWithDesugarForDebug'
-    //version = '2.2.3'
+    version = '2.2.3'
 
     implementation "com.leanplum:Leanplum:${version}"
 }
